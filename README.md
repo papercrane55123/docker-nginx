@@ -1,3 +1,4 @@
 # study docker
 
+![image](https://github.com/papercrane55123/docker-nginx/assets/150432433/15a259e1-9cdd-4aa5-a38a-3a6261713240)
 
