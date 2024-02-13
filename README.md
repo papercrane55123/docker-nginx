@@ -7,6 +7,8 @@
 - [x] push index.html to docker hub
 : nginx-vim v0.2.0
 
+### v0.3.0
+- [ ] fly.io / firebase
 
 # docker hub page
 https://hub.docker.com/repository/docker/minicrane/nginx-vim/general
