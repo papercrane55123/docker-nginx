@@ -4,6 +4,6 @@
 
 ## Version
 ### v0.2.0
-- [ ] push index.html to docker hu
-- [ ]b
+- [x] push index.html to docker hub
+: nginx-vim v0.2.0
 
